@@ -245,7 +245,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5459,
+            "size": 5467,
             "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/options.txt",
             "path": "options.txt"
           }

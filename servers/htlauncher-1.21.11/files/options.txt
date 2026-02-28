@@ -63,8 +63,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/하드코어엔더런"]
-incompatibleResourcePacks:["file/하드코어엔더런"]
+resourcePacks:["vanilla","file/하드코어엔더런.zip"]
+incompatibleResourcePacks:["file/하드코어엔더런.zip"]
 lastServer:
 lang:ko_kr
 chatVisibility:0

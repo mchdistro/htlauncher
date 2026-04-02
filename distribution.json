@@ -247,7 +247,6 @@
           "artifact": {
             "size": 169,
             "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/imageframeclient.json",
-            "MD5": "324c8a4f507405d1c670486b8778db83",
             "path": "config/imageframeclient.json"
           }
         },
@@ -269,6 +268,16 @@
             "size": 1244,
             "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
+          }
+        },
+        {
+          "id": "sciophobia.json",
+          "name": "sciophobia.json",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/sciophobia.json",
+            "path": "config/sciophobia.json"
           }
         },
         {

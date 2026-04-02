@@ -35,7 +35,13 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "config/iris.properties", "config/simplehudenhanced.toml"]
+      "patterns": [
+        "options.txt",
+        "config/iris.properties",
+        "config/simplehudenhanced.toml",
+        "config/plasmovoice/client.toml",
+        "imageframeclient.json"
+      ]
     }
   ]
 }

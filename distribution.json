@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "htlauncher-1.21.11",
+      "id": "v2-1.21.11",
       "name": "햇런처",
       "description": "Minecraft 1.21.11 (Fabric v0.18.4)",
       "icon": "https://github.com/mchdistro/htlauncher/raw/main/server-icon.png",
@@ -131,22 +131,12 @@
           ]
         },
         {
-          "id": "com.dreamdisplays:dreamdisplays:1.4.3@jar",
-          "name": "Dream Displays",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1451742,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/dreamdisplays-fabric-1.4.3.jar",
-            "MD5": "3a0dc7b11e8e0976ff1bf3a126828fc5"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.141.3+1.21.11@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
             "size": 2412693,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/fabric-api-0.141.3+1.21.11.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/fabric-api-0.141.3+1.21.11.jar",
             "MD5": "f7e723a1649302a0a6923022a7596f1a"
           }
         },
@@ -156,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 271268,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/ImageFrameClient-1.21.11-fabric-1.2.0.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/ImageFrameClient-1.21.11-fabric-1.2.0.jar",
             "MD5": "fc32be38e1fdbf60c75247d5a4c943c2"
           }
         },
@@ -166,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2798880,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/iris-fabric-1.10.5+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/iris-fabric-1.10.5+mc1.21.11.jar",
             "MD5": "029f544f4368f2e9e26e5775519e0a8b"
           }
         },
@@ -176,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 652311,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.11.jar",
             "MD5": "279717a521c4aa2cf450275220a985b7"
           }
         },
@@ -186,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1115052,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/modmenu-17.0.0-beta.2.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/modmenu-17.0.0-beta.2.jar",
             "MD5": "876eca2ec6fa50d36b4bd9320ec680a1"
           }
         },
@@ -196,8 +186,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12197316,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.8.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/plasmovoice-fabric-1.21.11-2.1.8.jar",
             "MD5": "aef50d3c0510f46a29fd04d3580dd40b"
+          }
+        },
+        {
+          "id": "dev.microcontrollers:sciophobia:1.2.5@jar",
+          "name": "Sciophobia",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 148325,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/sciophobia-1.2.5+1.21.11-fabric.jar",
+            "MD5": "bf81d4c4c1c48fe5565e9b8885b364a5"
           }
         },
         {
@@ -206,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1186272,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/simple-hud-enhanced+1.21.11-4.7.5.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/simple-hud-enhanced+1.21.11-4.7.5.jar",
             "MD5": "c7157e407b8142e2ad11c34f6cfe3ee0"
           }
         },
@@ -216,8 +216,39 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1867803,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/fabricmods/required/sodium-fabric-0.8.4+mc1.21.11.jar",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/sodium-fabric-0.8.4+mc1.21.11.jar",
             "MD5": "96d666528c9e26f5bc5261025fa035b0"
+          }
+        },
+        {
+          "id": "kr.shihyeon:tabnametag:0.1.0+mc1.21.9@jar",
+          "name": "TabNameTag",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11058,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/tabnametag-fabric-0.1.0+mc1.21.9.jar",
+            "MD5": "274f5b3278b658ad319e5650780b0107"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.11-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1126948,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+            "MD5": "0de1337147953ff71854bfd4ce874629"
+          }
+        },
+        {
+          "id": "imageframeclient.json",
+          "name": "imageframeclient.json",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/imageframeclient.json",
+            "MD5": "324c8a4f507405d1c670486b8778db83",
+            "path": "config/imageframeclient.json"
           }
         },
         {
@@ -226,8 +257,18 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/iris.properties",
             "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1244,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/plasmovoice/client.toml",
+            "path": "config/plasmovoice/client.toml"
           }
         },
         {
@@ -235,8 +276,8 @@
           "name": "simplehudenhanced.toml",
           "type": "File",
           "artifact": {
-            "size": 2394,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/config/simplehudenhanced.toml",
+            "size": 2513,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/config/simplehudenhanced.toml",
             "path": "config/simplehudenhanced.toml"
           }
         },
@@ -246,7 +287,7 @@
           "type": "File",
           "artifact": {
             "size": 5467,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/options.txt",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -255,9 +296,9 @@
           "name": "하드코어엔더런.zip",
           "type": "File",
           "artifact": {
-            "size": 2220244,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/resourcepacks/%ED%95%98%EB%93%9C%EC%BD%94%EC%96%B4%EC%97%94%EB%8D%94%EB%9F%B0.zip",
-            "MD5": "5d485f6bfb7d1e055d86a440bcf4d917",
+            "size": 1332778,
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/resourcepacks/%ED%95%98%EB%93%9C%EC%BD%94%EC%96%B4%EC%97%94%EB%8D%94%EB%9F%B0.zip",
+            "MD5": "446ac2cd69d63f0ef9ebd796a2289fe1",
             "path": "resourcepacks/하드코어엔더런.zip"
           }
         },
@@ -267,7 +308,7 @@
           "type": "File",
           "artifact": {
             "size": 9879,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/servers.dat",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/servers.dat",
             "MD5": "65479193c9fa50fcef7d1cf367173e7d",
             "path": "servers.dat"
           }
@@ -278,7 +319,7 @@
           "type": "File",
           "artifact": {
             "size": 522970,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
             "MD5": "bc5f557bb6844d27e7b7891170544ea9",
             "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
           }
@@ -289,7 +330,7 @@
           "type": "File",
           "artifact": {
             "size": 522973,
-            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/htlauncher-1.21.11/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+            "url": "https://github.com/mchdistro/htlauncher/raw/main/servers/v2-1.21.11/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
             "MD5": "b535d194c7115b360860e226c65ae3f2",
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
           }
